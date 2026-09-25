@@ -6,7 +6,11 @@ Database Used:
 Features:
 
 Add Task
+
 View Tasks
+
 Edit Task
+
 Delete Task
+
 Update Status
